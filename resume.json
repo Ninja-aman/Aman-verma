@@ -1,0 +1,134 @@
+{
+    "basics": {
+        "name": "Aman Verma",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/104585084?v=4",
+        "email": "2021kuec2006@iiitkota.ac.in",
+        "phone": "+918299541572",
+        "website": "",
+        "summary": "I'm student at Indian Institute of Information technology,Kota (India), pursuing my B.tech in Electronics and Communication department. Looking to Build a career in software development.",
+        "location": {
+            "address": "Gorakhpur",
+            "postalCode": "273001",
+            "city": "Gorakhpur",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "Amanver84771602",
+                "url": "https://www.twitter.com/AmanVer52466598rmar"
+            },
+            {
+                "network": "Github",
+                "username": "Ninja-aman",
+                "url": "https://www.github.com/Ninja-aman"
+            },
+            {
+                "network": "linkedin",
+                "username": "Aman Verma",
+                "url": "https://www.linkedin.com/in/Aman Verma/"
+            },
+            {
+                "network": "Instagram",
+                "username": "iamanvermaaa",
+                "url": "https://instagram.com/iamanvermaaa"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Electronics  & Communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": ",",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "Master",
+            "keywords": [
+                ""
+               
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Vocals"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Football",
+                "Badminton"
+            ]
+        }
+    ]
+}
